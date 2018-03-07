@@ -1,0 +1,8 @@
+ext {
+    supportLibVersion='26.1.0'
+    android=[
+            compileSdkVersion:26,
+            minSdkVersion:17,
+            targetSdkVersion: 26,
+    ]
+}
